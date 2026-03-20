@@ -1,8 +1,11 @@
 :root {
-    --color-brand: #819b57;
-    --color-white: #faf4ea;
-    --color-dark: #31261a;
-    --color-brand-dark: #465929;
-    --color-brand-light: #cfcfbc;
-    --color-secondary-dark: #a18268;
+  --color-brand: #819b57;
+  --color-white: #faf4ea;
+  --color-dark: #31261a;
+  --color-brand-dark: #465929;
+  --color-brand-light: #cfcfbc;
+  --color-secondary-dark: #a18268;
 }
+$bp-mobile: 480px;
+$bp-tablet: 768px;
+$bp-desctop: 1280px;
